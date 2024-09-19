@@ -18,21 +18,22 @@ Soy un estudiante de la carrera Tecnicatura Universitaria en Programación en la
 ## 💼 Proyectos Destacados
 
 ### [Gestor de Biblioteca](https://github.com/tuusuario/gestor-biblioteca)
-Un sistema para gestionar libros en una biblioteca con funcionalidades de búsqueda, catalogación y préstamo.
+Una aplicación integral para la gestión de bibliotecas que incluye:
+
+- **Integración con la API de Google Books**: Permite agregar libros a la biblioteca de manera eficiente y obtener información actualizada.
+- **Búsqueda Avanzada**: Busca libros por nombre, título, autor y otros parámetros relevantes.
+- **Filtrado**: Filtra libros por año de publicación, género y más para una mejor organización.
 
 ### [Sistema de Reservas](https://github.com/tuusuario/sistema-reservas)
 Una aplicación para gestionar reservas de turnos en una tienda de servicios con opciones de calendario y notificaciones.
 
 ## 📫 Contacto
-Puedes contactarme en <a href="https://www.linkedin.com/in/joaquin-korol/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120"/>
-</a> o a través de mi [portafolio](https://tuportafolio.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)</br>
+[![Portafolio](https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://tuportafolio.com)
 
 ## 🎯 Objetivos
 Actualmente, mi objetivo es continuar aprendiendo sobre desarrollo de software y explorar nuevas tecnologías. Estoy especialmente interesado en la inteligencia artificial y el desarrollo de aplicaciones web escalables.
 
 ## 🏆 Badges
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquinkorol&theme=transparent&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquinkorol&theme=transparent&hide_border=false)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinkorol&layout=compact)
-![GitHub Followers](https://img.shields.io/github/followers/joaquinkorol?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/joaquinkorol?style=social)
