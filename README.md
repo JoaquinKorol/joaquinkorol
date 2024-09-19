@@ -6,6 +6,7 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 - C#
 - .NET
 - SQL Server
+- ![ASP.NET](https://img.icons8.com/color/48/000000/asp-net-core.png)
 - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91)
 - GitHub
 
