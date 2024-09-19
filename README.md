@@ -17,5 +17,5 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 
 
 ## 📊 Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaquinkorol&theme=transparent&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinkorol&layout=compact)
+- ![](https://github-readme-streak-stats.herokuapp.com/?user=joaquinkorol&theme=transparent&hide_border=false)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinkorol&layout=compact)
