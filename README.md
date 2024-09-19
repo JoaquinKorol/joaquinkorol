@@ -6,7 +6,6 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 - ![C#](https://img.shields.io/badge/-C%23-blue)
 - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91)
 - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💼 Proyectos destacados
 - [Gestor de Biblioteca](https://github.com/tuusuario/gestor-biblioteca)
