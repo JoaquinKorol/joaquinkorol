@@ -1,12 +1,12 @@
 # 👋 Hola, soy Joaquin Korol
 
-Soy un estudiante de programación apasionado por el desarrollo de software y siempre buscando aprender algo nuevo. Me especializo en C#, .NET y SQL Server, y actualmente estoy trabajando en varios proyectos para mejorar mis habilidades.
+Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la UTN FRGP, apasionado por el desarrollo de software y siempre buscando aprender algo nuevo. Me especializo en C#, .NET y SQL Server, y actualmente estoy trabajando en varios proyectos para mejorar mis habilidades.
 
 ## 🚀 Tecnologías que uso
 - C#
 - .NET
 - SQL Server
-- ASP.NET
+- ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91)
 - GitHub
 
 ## 💼 Proyectos destacados
