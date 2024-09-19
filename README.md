@@ -16,3 +16,4 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 - [![Portafolio](https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://tuportafolio.com)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquinkorol&show_icons=true&hide_title=true&hide=prs,issues)
