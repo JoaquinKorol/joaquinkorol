@@ -13,5 +13,6 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://tuportafolio.com)
 
 
