@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Joaquin Korol
 
-<!--
-**JoaquinKorol/joaquinkorol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de programación apasionado por el desarrollo de software y siempre buscando aprender algo nuevo. Me especializo en C#, .NET y SQL Server, y actualmente estoy trabajando en varios proyectos para mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que uso
+- C#
+- .NET
+- SQL Server
+- ASP.NET
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Proyectos destacados
+- [Gestor de Biblioteca](https://github.com/tuusuario/gestor-biblioteca)
+- [Sistema de Reservas](https://github.com/tuusuario/sistema-reservas)
+
+## 📫 Contacto
+Puedes contactarme en [LinkedIn](https://linkedin.com/in/tuusuario) o a través de mi [portafolio](https://tuportafolio.com).
