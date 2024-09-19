@@ -9,7 +9,7 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 
 ## 💼 Proyectos destacados
 - [Gestor de Biblioteca](https://github.com/tuusuario/gestor-biblioteca)
-- [Sistema de Reservas](https://github.com/tuusuario/sistema-reservas)
+- [Sistema de Reservas](https://github.com/JoaquinKorol/KoruCosmetica)
 
 ## 📫 Contacto
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)
