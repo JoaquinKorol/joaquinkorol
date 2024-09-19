@@ -4,9 +4,8 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 
 ## 🚀 STACK
 - ![C#](https://img.shields.io/badge/-C%23-blue)
-- ![.NET](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927)
 - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91)
+- ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💼 Proyectos destacados
