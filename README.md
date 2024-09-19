@@ -13,4 +13,4 @@ Soy un Estudiante en la carrera Tecnicatura Universitaria en Programación en la
 - [Sistema de Reservas](https://github.com/tuusuario/sistema-reservas)
 
 ## 📫 Contacto
-Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/joaquin-korol/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) o a través de mi [portafolio](https://tuportafolio.com).
+Puedes contactarme en [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/) o a través de mi [portafolio](https://tuportafolio.com).
