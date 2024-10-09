@@ -7,7 +7,7 @@ Soy un estudiante de la carrera Tecnicatura Universitaria en Programación en la
 - **Lenguajes:** C#, SQL
 - **Frameworks:** .NET, ASP.NET
 - **Bases de Datos:** SQL Server
-- **Herramientas:** Git, Visual Studio, GitHub
+- **Herramientas:** Git, GitHub, Postman
 
 ## 🚀 STACK
 - ![C#](https://img.shields.io/badge/-C%23-blue)
