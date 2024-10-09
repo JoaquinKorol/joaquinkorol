@@ -31,9 +31,4 @@ Una aplicación para gestionar reservas de turnos en una tienda de servicios con
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)</br>
 [![Portafolio](https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://tuportafolio.com)
 
-## 🎯 Objetivos
-Actualmente, mi objetivo es continuar aprendiendo sobre desarrollo de software y explorar nuevas tecnologías. Estoy especialmente interesado en la inteligencia artificial y el desarrollo de aplicaciones web escalables.
 
-## 🏆 Badges
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaquinkorol&theme=transparent&hide_border=false)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaquinkorol&layout=compact)
