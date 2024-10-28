@@ -27,10 +27,14 @@ Una aplicación integral para la gestión de bibliotecas que incluye:
 ### [Sistema de Reservas](https://github.com/tuusuario/sistema-reservas)
 Una aplicación para gestionar reservas de turnos en una tienda de servicios con opciones de calendario y notificaciones.
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaquinKorol&show_icons=true&hide_border=true&theme=radical&size=400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinKorol&layout=compact&hide_border=true&theme=radical&size=400)
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaquinKorol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaquinKorol&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)</br>
 
