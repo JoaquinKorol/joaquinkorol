@@ -29,6 +29,7 @@ Una aplicación para gestionar reservas de turnos en una tienda de servicios con
 
 ## 📊 Estadísticas de GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joaquinkorol&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinkorol&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)</br>
