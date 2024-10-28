@@ -28,8 +28,8 @@ Una aplicación integral para la gestión de bibliotecas que incluye:
 Una aplicación para gestionar reservas de turnos en una tienda de servicios con opciones de calendario y notificaciones.
 
 ## 📊 Estadísticas de GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=joaquinkorol&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaquinkorol&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaquinKorol&show_icons=true&hide_border=true&theme=radical&size=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinKorol&layout=compact&hide_border=true&theme=radical&size=400)
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)</br>
