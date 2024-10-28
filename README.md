@@ -1,7 +1,7 @@
-# 👋 Hola, soy Joaquin Korol
-## Estudiante de Programación | Desarrollador BackEnd .Net
+# 👋 Hola, soy Joaquín Korol
+## Estudiante de Programación | Desarrollador BackEnd .NET
 
-Soy un estudiante de la carrera Tecnicatura Universitaria en Programación en la UTN FRGP, apasionado por el desarrollo de software y siempre buscando aprender algo nuevo. Me especializo en C#, .NET y SQL Server, y actualmente estoy trabajando en varios proyectos para mejorar mis habilidades.
+Soy un estudiante de la carrera **Tecnicatura Universitaria en Programación** en la UTN FRGP, apasionado por el desarrollo de software y siempre buscando aprender algo nuevo. Me especializo en **C#**, **.NET** y **SQL Server**, y actualmente estoy trabajando en varios proyectos para mejorar mis habilidades.
 
 ## 💪 Habilidades
 - **Lenguajes:** C#, SQL
@@ -15,27 +15,13 @@ Soy un estudiante de la carrera Tecnicatura Universitaria en Programación en la
 - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 💼 Proyectos Destacados
-
-### [Gestor de Biblioteca](https://github.com/tuusuario/gestor-biblioteca)
-Una aplicación integral para la gestión de bibliotecas que incluye:
-
-- **Integración con la API de Google Books**: Permite agregar libros a la biblioteca de manera eficiente y obtener información actualizada.
-- **Búsqueda Avanzada**: Busca libros por nombre, título, autor y otros parámetros relevantes.
-- **Filtrado**: Filtra libros por año de publicación, género y más para una mejor organización.
-
-### [Sistema de Reservas](https://github.com/tuusuario/sistema-reservas)
-Una aplicación para gestionar reservas de turnos en una tienda de servicios con opciones de calendario y notificaciones.
-
-### ⚙️ &nbsp;GitHub Analytics
-
+## ⚙️ GitHub Analytics
 <p align="center">
-<a href="https://github.com/joaquinkorol">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaquinKorol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaquinKorol&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/JoaquinKorol">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaquinKorol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaquinKorol&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)</br>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)
