@@ -1,5 +1,5 @@
-# 👋 Hola, soy Joaquín Korol
-## Estudiante de Programación | Desarrollador BackEnd .NET
+<h1 align="center">Hola 👋, Soy Joaquin Krol</h1>
+<h3 align="center">Desarrollador Backend .NET🌟.</h3>
 
 Soy un estudiante de la carrera **Tecnicatura Universitaria en Programación** en la UTN FRGP, apasionado por el desarrollo de software y siempre buscando aprender algo nuevo. Me especializo en **C#**, **.NET** y **SQL Server**, y actualmente estoy trabajando en varios proyectos para mejorar mis habilidades.
 
