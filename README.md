@@ -31,4 +31,6 @@ Una aplicación para gestionar reservas de turnos en una tienda de servicios con
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)</br>
 [![Portafolio](https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://tuportafolio.com)
 
+![Lenguajes](https://img.shields.io/github/languages/top/JoaquinKorol/tu-repo?style=for-the-badge)
+
 
