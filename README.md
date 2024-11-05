@@ -19,7 +19,7 @@ Soy un estudiante de la carrera **Tecnicatura Universitaria en Programación** e
 <p align="center">
   <a href="https://github.com/JoaquinKorol">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaquinKorol&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaquinKorol&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src=""/>
   </a>
 </p>
 
