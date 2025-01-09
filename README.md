@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, Soy Joaquin Krol</h1>
-<h3 align="center">Desarrollador Backend .NET🌟.</h3>
+<h1 align="center">Hello 👋, I'm Joaquin Korol</h1>
+<h3 align="center">Backend Developer .NET🌟.</h3>
 
-Soy un estudiante de la carrera **Tecnicatura Universitaria en Programación** en la UTN FRGP, apasionado por el desarrollo de software y siempre buscando aprender algo nuevo. Me especializo en **C#**, **.NET** y **SQL Server**, y actualmente estoy trabajando en varios proyectos para mejorar mis habilidades.
+I am a student of the **Technician in Programming** career at UTN FRGP, passionate about software development and always looking to learn something new. I specialize in **C#**, **.NET**, and **SQL Server**, and I am currently working on several projects to improve my skills.
 
-## 💪 Habilidades
-- **Lenguajes:** C#, SQL
+## 💪 Skills
+- **Languages:** C#, SQL
 - **Frameworks:** .NET, ASP.NET
-- **Bases de Datos:** SQL Server
-- **Herramientas:** Git, GitHub, Postman
+- **Databases:** SQL Server
+- **Tools:** Git, GitHub, Postman
 
 ## 🚀 STACK
 - ![C#](https://img.shields.io/badge/-C%23-blue)
@@ -23,5 +23,5 @@ Soy un estudiante de la carrera **Tecnicatura Universitaria en Programación** e
   </a>
 </p>
 
-## 📫 Contacto
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-korol/)
